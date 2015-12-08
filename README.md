@@ -1,0 +1,2 @@
+# CE531_StochasticViewValues_GSSHA
+Written by Stephen Duncan for the BYU CE EN 531 Hydrologic Modeling class of Fall 2015. This allows users to quickly copy the folder location of their WMS GSSHA analysis and view all the outlet hydrographs simultaneously. It looks at the *.OTL files and brings them into a *.CSV file at the top of that folder. The user can then decide what to do with the outputs from that point. 
